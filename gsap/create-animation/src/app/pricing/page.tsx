@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const page = () => {
   return (
     <div className='w-[870px] h-[280px] flex justify-center items-center mx-auto'>
